@@ -1,6 +1,6 @@
 /* General body styling */
 body {
-    background-image: url('background.gif');
+    background-image: url('../../res/imgs/background.gif');
     background-repeat: repeat;
     font-family: Arial, sans-serif;
     margin: 20px;
@@ -23,7 +23,7 @@ h2 {
 
 /* List styling */
 ul {
-    list-style-image: url('pie_bullet.png');
+    list-style-image: url('../../res/imgs/pie_bullet.png');
 }
 
 /* Image styling */
